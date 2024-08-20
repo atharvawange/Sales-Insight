@@ -1,4 +1,4 @@
-### Sales Insight
+# Sales Insight
 ## Overview
 
 This Power BI dashboard provides a comprehensive view of sales data across different regions, stores, and products. The dashboard visualizes key metrics such as total revenue, average revenue, and transaction counts, offering insights into sales performance over time.
